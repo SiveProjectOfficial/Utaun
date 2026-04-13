@@ -75,7 +75,7 @@ Utaun is a Windows application that generates CV voicebanks for UTAU using purel
 It runs as a standalone executable and automatically creates a ZIP voicebank file in your Documents folder.
 
 Features
-Automatically generates a voicebank ZIP on your desktop when executed
+Automatically generates a voicebank ZIP on your Documents folder when executed
 
 Produces vowel sounds (a / i / u / e / o / n) using fully inorganic additive synthesis
 
