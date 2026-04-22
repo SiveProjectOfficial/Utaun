@@ -1,5 +1,4 @@
 [🇬🇧 Back to Language Selection](./README.md)
----
 
 # 【What is Utaun?】
 Utaun is Windows software that generates CV voicebanks for UTAU using only non-biological additive synthesis. It automatically generates a voicebank ZIP file in your Documents folder.
