@@ -13,4 +13,5 @@ Oprogramowanie Windows do generowania banków głosowych CV dla UTAU przy użyci
 ### 【Zasady】
 Modyfikacja, użytek komercyjny i redystrybucja oprogramowania są zabronione. Prawa do wygenerowanych banków należą do Ciebie.
 
+Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇵🇱
