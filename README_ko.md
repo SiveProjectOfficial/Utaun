@@ -58,4 +58,5 @@ Utaun 본체(`Utaun.exe`)에서는 다음 행위가 금지됩니다.
 이용 약관은 귀하(배포자)가 자유롭게 설정할 수 있습니다. `readme.txt`에 원하는 약관을 작성해 주세요.
 업데이트에 대해서는 **Releases**를 확인해 주세요.
 
+Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇰🇷
