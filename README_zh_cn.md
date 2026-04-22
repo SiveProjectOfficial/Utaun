@@ -58,4 +58,5 @@ Utaun 软件本体 (`Utaun.exe`) 禁止以下行为：
 利用条款可由您（发布者）自由设定。请在 `readme.txt` 中编写您喜欢的条款。
 关于更新详情，请查看 **Releases** 页面。
 
+Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇨🇳
