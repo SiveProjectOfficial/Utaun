@@ -22,4 +22,5 @@ Utaun ist eine Windows-Software, die UTAU-CV-Stimmbanken ausschließlich durch a
 ### 【Bedingungen】
 Modifikation, kommerzielle Nutzung und Weiterverbreitung der Software sind untersagt. Die generierten Stimmbanken gehören Ihnen.
 
+Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇩🇪
