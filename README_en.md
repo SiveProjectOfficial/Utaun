@@ -58,4 +58,5 @@ The following actions are prohibited for the Utaun main body (`Utaun.exe`):
 You (the distributor) are free to set your own terms of use. Please write your preferred terms in the `readme.txt`.
 For updates, please check the **Releases** page.
 
+Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇺🇸
