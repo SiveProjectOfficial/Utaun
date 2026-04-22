@@ -12,3 +12,5 @@
 
 ### 【利用條款】
 禁止改裝、商用或者再發布軟件。整出嚟嘅音源規約由你自己定。
+
+https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇭🇰
