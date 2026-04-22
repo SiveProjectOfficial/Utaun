@@ -13,4 +13,5 @@
 ### 【利用條款】
 禁止加工、改造或再發布軟體。音源生成物的權利歸您所有。
 
+Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇹🇼
