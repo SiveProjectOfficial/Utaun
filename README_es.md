@@ -21,4 +21,5 @@ Software de Windows que genera bancos de voz CV para UTAU mediante síntesis adi
 ### 【Términos】
 Prohibida la modificación, uso comercial o redistribución del software. Eres libre de decidir los términos de los bancos generados.
 
+Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇪🇸
