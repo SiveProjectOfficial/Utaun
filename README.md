@@ -1,4 +1,4 @@
-#  Utaun日本語README
+#  Utaun日本語説明ページ
 
 **Select Language**  
 [🇯🇵 日本語](./README.md)   
