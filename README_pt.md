@@ -15,3 +15,14 @@ Proibida modificação, uso comercial ou redistribuição do software. Você dec
 
 Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇵🇹
+
+## Support the Development / Apoie o Desenvolvimento
+Para continuar o desenvolvimento do Utaun, lançámos recompensas de apoio no BOOTH.  
+As vossas contribuições serão utilizadas cuidadosamente para futuras atualizações, manutenção do ambiente de desenvolvimento e melhoria da qualidade da ferramenta.
+
+[Loja Oficial SiveProject (BOOTH)](https://hyuyu.booth.pm/)  
+[【SiveProject】Recompensa de Apoio Utaun: papel de parede (Sine-wave Jack)-￥100](https://hyuyu.booth.pm/items/8376172)  
+[【SiveProject】Recompensa de Apoio Utaun: papel de parede (Sine-wave Nanoka)-￥100](https://hyuyu.booth.pm/items/8377361)  
+[【SiveProject】Recompensa de Apoio Utaun: banco de voz UTAU limitado do BOOTH-￥300](https://hyuyu.booth.pm/items/8376795)  
+[【SiveProject】Pacote Completo de Recompensas de Apoio Utaun-¥500](https://hyuyu.booth.pm/items/8377403)  
+[【SiveProject】Apoio ao desenvolvimento sem limites (com mensagem de agradecimento)-￥100～](https://hyuyu.booth.pm/items/8377520)
