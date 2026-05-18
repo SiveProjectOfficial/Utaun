@@ -60,3 +60,14 @@ For updates, please check the **Releases** page.
 
 Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇺🇸
+
+## Support the Development / Development Support
+In order to continue the development of Utaun, we have released support rewards on BOOTH.  
+The support funds received will be carefully used for future updates, maintenance of the development environment, and improving the quality of the tool.
+
+[SiveProject Official Shop (BOOTH)](https://hyuyu.booth.pm/)  
+[【SiveProject】Utaun Support Reward: desktop wallpaper (Sine-wave Jack)-￥100](https://hyuyu.booth.pm/items/8376172)  
+[【SiveProject】Utaun Support Reward: desktop wallpaper (Sine-wave Nanoka)-￥100](https://hyuyu.booth.pm/items/8377361)  
+[【SiveProject】Utaun Support Reward: BOOTH Limited UTAU Voicebank-￥300](https://hyuyu.booth.pm/items/8376795)  
+[【SiveProject】Utaun Support Reward Complete Pack-¥500](https://hyuyu.booth.pm/items/8377403)  
+[【SiveProject】Utaun Development Support Unlimited Tier (w/ Thank you message)-￥100～](https://hyuyu.booth.pm/items/8377520)
