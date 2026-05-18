@@ -60,3 +60,14 @@ Utaun 본체(`Utaun.exe`)에서는 다음 행위가 금지됩니다.
 
 Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇰🇷
+
+## Support the Development / 개발 지원
+Utaun의 개발을 지속하기 위해 BOOTH에서 개발 지원 리워드를 공개했습니다.  
+보내주신 지원금은 향후 업데이트 및 개발 환경 유지, 툴의 품질 향상을 위해 소중히 사용하겠습니다.
+
+[SiveProject 공식 샵 (BOOTH)](https://hyuyu.booth.pm/)  
+[【SiveProject】Utaun 개발 지원 리워드: 데스크탑 배경화면 (정현파 잭)-￥100](https://hyuyu.booth.pm/items/8376172)  
+[【SiveProject】Utaun 개발 지원 리워드: 데스크탑 배경화면 (사인웨이브 나노카)-￥100](https://hyuyu.booth.pm/items/8377361)  
+[【SiveProject】Utaun 개발 지원 리워드: BOOTH 한정 배포 UTAU 음원-￥300](https://hyuyu.booth.pm/items/8376795)  
+[【SiveProject】Utaun 개발 지원 리워드 컴플리트 팩-¥500](https://hyuyu.booth.pm/items/8377403)  
+[【SiveProject】Utaun 개발 응원 상한 없음 프레임 (감사 메시지 포함)-￥100～](https://hyuyu.booth.pm/items/8377520)
