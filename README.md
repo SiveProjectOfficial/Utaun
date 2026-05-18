@@ -82,7 +82,7 @@ Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇯🇵
 
 ## Support the Development / 開発支援
-`Utaun` の開発を継続するために、BOOTHにて開発支援リワードを公開しています。
+Utaunの開発を継続するために、BOOTHにて開発支援リワードを公開しています。
 いただいた支援金は、開発環境の維持やアップデートのために大切に活用させていただきます。
 
 [SiveProject 公式ショップ (BOOTH)](https://hyuyu.booth.pm/)  
