@@ -22,3 +22,14 @@ Bawal baguhin, ibenta, o i-distribute ang Utaun.exe. Sayo ang karapatan sa mga m
 
 Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇵🇭
+
+## Support the Development / Suporta sa Pag-unlad
+Upang maipagpatuloy ang pag-unlad ng Utaun, naglabas kami ng mga support reward sa BOOTH.  
+Ang inyong mga kontribusyon ay gagamitin para sa mga susunod na update, pagpapanatili ng development environment, at pagpapabuti ng kalidad ng tool.
+
+[SiveProject Opisyal na Shop (BOOTH)](https://hyuyu.booth.pm/)  
+[【SiveProject】Utaun Support Reward: desktop wallpaper (Sine-wave Jack)-￥100](https://hyuyu.booth.pm/items/8376172)  
+[【SiveProject】Utaun Support Reward: desktop wallpaper (Sine-wave Nanoka)-￥100](https://hyuyu.booth.pm/items/8377361)  
+[【SiveProject】Utaun Support Reward: BOOTH Limited UTAU Voicebank-￥300](https://hyuyu.booth.pm/items/8376795)  
+[【SiveProject】Utaun Support Reward Complete Pack-¥500](https://hyuyu.booth.pm/items/8377403)  
+[【SiveProject】Utaun Development Support Unlimited Tier (may kasamang Thank you message)-￥100～](https://hyuyu.booth.pm/items/8377520)
