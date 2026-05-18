@@ -15,3 +15,14 @@
 
 Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇷🇺
+
+## Support the Development / Поддержка разработки
+Чтобы продолжить разработку Utaun, мы выпустили награды за поддержку на BOOTH.  
+Ваши пожертвования будут использованы для будущих обновлений, поддержки среды разработки и улучшения качества инструмента.
+
+[Официальный магазин SiveProject (BOOTH)](https://hyuyu.booth.pm/)  
+[【SiveProject】Награда за поддержку Utaun: обои для рабочего стола (Sine-wave Jack)-￥100](https://hyuyu.booth.pm/items/8376172)  
+[【SiveProject】Награда за поддержку Utaun: обои для рабочего стола (Sine-wave Nanoka)-￥100](https://hyuyu.booth.pm/items/8377361)  
+[【SiveProject】Награда за поддержку Utaun: лимитированный голосовой банк UTAU для BOOTH-￥300](https://hyuyu.booth.pm/items/8376795)  
+[【SiveProject】Полный набор наград за поддержку Utaun-¥500](https://hyuyu.booth.pm/items/8377403)  
+[【SiveProject】Поддержка разработки без ограничений (с благодарственным сообщением)-￥100～](https://hyuyu.booth.pm/items/8377520)
