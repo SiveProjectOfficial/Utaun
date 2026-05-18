@@ -15,3 +15,14 @@
 
 Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇭🇰
+
+## Support the Development / 開發支援
+為咗繼續 Utaun 嘅開發，我哋喺 BOOTH 發布咗開發支援獎勵。  
+你哋嘅支持會用喺之後嘅更新、維護開發環境同埋提升工具嘅質量。
+
+[SiveProject 官方商店 (BOOTH)](https://hyuyu.booth.pm/)  
+[【SiveProject】Utaun 開發支援獎勵：電腦壁紙（正弦波傑克）-￥100](https://hyuyu.booth.pm/items/8376172)  
+[【SiveProject】Utaun 開發支援獎勵：電腦壁紙（正幻波菜乃花）-￥100](https://hyuyu.booth.pm/items/8377361)  
+[【SiveProject】Utaun 開發支援獎勵：BOOTH 限定 UTAU 音源-￥300](https://hyuyu.booth.pm/items/8376795)  
+[【SiveProject】Utaun 開發支援全套禮包-¥500](https://hyuyu.booth.pm/items/8377403)  
+[【SiveProject】開發支持無上限金額（附感謝信）-￥100～](https://hyuyu.booth.pm/items/8377520)
