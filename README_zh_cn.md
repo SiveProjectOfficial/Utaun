@@ -60,3 +60,14 @@ Utaun 软件本体 (`Utaun.exe`) 禁止以下行为：
 
 Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇨🇳
+
+## Support the Development / 开发支援
+为了继续 Utaun 的开发，我们在 BOOTH 发布了开发支援奖励。  
+您的支持将用于后续更新、维护开发环境以及提升工具质量。
+
+[SiveProject 官方商店 (BOOTH)](https://hyuyu.booth.pm/)  
+[【SiveProject】Utaun 开发支援奖励：桌面壁纸（正弦波杰克）-￥100](https://hyuyu.booth.pm/items/8376172)  
+[【SiveProject】Utaun 开发支援奖励：桌面壁纸（正幻波菜乃花）-￥100](https://hyuyu.booth.pm/items/8377361)  
+[【SiveProject】Utaun 开发支援奖励：BOOTH 限定 UTAU 音源-￥300](https://hyuyu.booth.pm/items/8376795)  
+[【SiveProject】Utaun 开发支援全套礼包-¥500](https://hyuyu.booth.pm/items/8377403)  
+[【SiveProject】Utaun 开发支持无上限金额（附感谢信）-￥100～](https://hyuyu.booth.pm/items/8377520)
