@@ -85,9 +85,9 @@ https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇯🇵
 `Utaun` の開発を継続するために、BOOTHにて開発支援リワードを公開しています。
 いただいた支援金は、開発環境の維持やアップデートのために大切に活用させていただきます。
 
-- [SiveProject 公式ショップ (BOOTH)](https://hyuyu.booth.pm/)
--[【SiveProject】Utaun開発支援リワード：desktop壁紙（正弦波ジャック）-￥100](https://hyuyu.booth.pm/items/8376172).
--[【SiveProject】Utaun開発支援リワード：desktop壁紙（正幻波ナノカ）-￥100](https://hyuyu.booth.pm/items/8377361).
--[【SiveProject】Utaun開発支援リワード：BOOTH限定配布UTAU音源-\300](https://hyuyu.booth.pm/items/8376795).
-- [【SiveProject】Utaun開発支援リワードコンプリートパック-¥500](https://hyuyu.booth.pm/items/8376172)
--[【SiveProject】Utaun 開発応援上限なし枠（お礼メッセージ付き）-￥100～](https://hyuyu.booth.pm/items/8377520)
+[SiveProject 公式ショップ (BOOTH)](https://hyuyu.booth.pm/)  
+[【SiveProject】Utaun開発支援リワード：desktop壁紙（正弦波ジャック）-￥100](https://hyuyu.booth.pm/items/8376172)  
+[【SiveProject】Utaun開発支援リワード：desktop壁紙（正幻波ナノカ）-￥100](https://hyuyu.booth.pm/items/8377361)  
+[【SiveProject】Utaun開発支援リワード：BOOTH限定配布UTAU音源-\300](https://hyuyu.booth.pm/items/8376795)  
+[【SiveProject】Utaun開発支援リワードコンプリートパック-¥500](https://hyuyu.booth.pm/items/8376172)  
+[【SiveProject】Utaun 開発応援上限なし枠（お礼メッセージ付き）-￥100～](https://hyuyu.booth.pm/items/8377520)  
