@@ -15,3 +15,14 @@ Software Windows per generare bank vocali CV per UTAU tramite sintesi additiva. 
 Vietata la modifica, l'uso commerciale o la ridistribuzione del software. Sei libero di impostare i termini per le bank generate.
 
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇮🇹
+
+## Support the Development / Supporta lo Sviluppo
+Per continuare lo sviluppo di Utaun, abbiamo rilasciato dei premi di supporto su BOOTH.  
+I vostri contributi saranno utilizzati per i futuri aggiornamenti, la manutenzione dell'ambiente di sviluppo e il miglioramento della qualità dello strumento.
+
+[Negozio Ufficiale SiveProject (BOOTH)](https://hyuyu.booth.pm/)  
+[【SiveProject】Premio di supporto Utaun: sfondo per desktop (Sine-wave Jack)-￥100](https://hyuyu.booth.pm/items/8376172)  
+[【SiveProject】Premio di supporto Utaun: sfondo per desktop (Sine-wave Nanoka)-￥100](https://hyuyu.booth.pm/items/8377361)  
+[【SiveProject】Premio di supporto Utaun: voicebank UTAU limitata BOOTH-￥300](https://hyuyu.booth.pm/items/8376795)  
+[【SiveProject】Pacchetto completo premi di supporto Utaun-¥500](https://hyuyu.booth.pm/items/8377403)  
+[【SiveProject】Supporto allo sviluppo senza limiti (con messaggio di ringraziamento)-￥100～](https://hyuyu.booth.pm/items/8377520)
