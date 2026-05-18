@@ -24,3 +24,14 @@ Modifikation, kommerzielle Nutzung und Weiterverbreitung der Software sind unter
 
 Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇩🇪
+
+## Support the Development / Unterstützung der Entwicklung
+Um die Entwicklung von Utaun fortzusetzen, haben wir Unterstützungs-Rewards auf BOOTH veröffentlicht.  
+Ihre Beiträge werden sorgfältig für zukünftige Updates, die Pflege der Entwicklungsumgebung und die Verbesserung der Tool-Qualität verwendet.
+
+[SiveProject Offizieller Shop (BOOTH)](https://hyuyu.booth.pm/)  
+[【SiveProject】Utaun Entwicklungsunterstützung: Desktop-Hintergrund (Sine-wave Jack)-￥100](https://hyuyu.booth.pm/items/8376172)  
+[【SiveProject】Utaun Entwicklungsunterstützung: Desktop-Hintergrund (Sine-wave Nanoka)-￥100](https://hyuyu.booth.pm/items/8377361)  
+[【SiveProject】Utaun Entwicklungsunterstützung: BOOTH Limitierte UTAU-Voicebank-￥300](https://hyuyu.booth.pm/items/8376795)  
+[【SiveProject】Utaun Entwicklungsunterstützung Komplettpaket-¥500](https://hyuyu.booth.pm/items/8377403)  
+[【SiveProject】Utaun Entwicklungsunterstützung Ohne Limit (mit Dankesnachricht)-￥100～](https://hyuyu.booth.pm/items/8377520)
