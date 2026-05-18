@@ -15,3 +15,14 @@ Yazılımın değiştirilmesi, ticari kullanımı veya yeniden dağıtılması y
 
 Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇹🇷
+
+## Support the Development / Geliştirmeyi Destekleyin
+Utaun'un geliştirilmesine devam etmek için BOOTH üzerinden destek ödülleri yayınladık.  
+Katkılarınız gelecekteki güncellemeler, geliştirme ortamının sürdürülmesi ve araç kalitesinin artırılması için özenle kullanılacaktır.
+
+[SiveProject Resmi Mağazası (BOOTH)](https://hyuyu.booth.pm/)  
+[【SiveProject】Utaun Destek Ödülü: masaüstü duvar kağıdı (Sine-wave Jack)-￥100](https://hyuyu.booth.pm/items/8376172)  
+[【SiveProject】Utaun Destek Ödülü: masaüstü duvar kağıdı (Sine-wave Nanoka)-￥100](https://hyuyu.booth.pm/items/8377361)  
+[【SiveProject】Utaun Destek Ödülü: BOOTH Sınırlı UTAU Ses Bankası-￥300](https://hyuyu.booth.pm/items/8376795)  
+[【SiveProject】Utaun Destek Ödülü Tam Paket-¥500](https://hyuyu.booth.pm/items/8377403)  
+[【SiveProject】Sınırsız Geliştirme Desteği (Teşekkür mesajı ile)-￥100～](https://hyuyu.booth.pm/items/8377520)
