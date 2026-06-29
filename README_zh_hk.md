@@ -16,6 +16,10 @@
 Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇭🇰
 
+### 關於Utaun嘅再分發許可
+
+[關於Utaun嘅再分發許可](./關於Utaun嘅再分發許可.md)
+
 ## Support the Development / 開發支援
 為咗繼續 Utaun 嘅開發，我哋喺 BOOTH 發布咗開發支援獎勵。  
 你哋嘅支持會用喺之後嘅更新、維護開發環境同埋提升工具嘅質量。
