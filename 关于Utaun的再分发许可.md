@@ -14,4 +14,4 @@
   - 分发者名称/ID: (请填写你的名称或ID)
   - 分发者联系邮箱: (请在此填写你的邮箱地址，以便发送邮件)
 
-[README_MIRROR_ch.txt](./README_MIRROR_ch.txt)
+[README_MIRROR](./README_MIRROR_ch.txt)
