@@ -22,7 +22,7 @@ https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇷🇺
 
 ### Разрешение на распространение Utaun
 
-[Разрешение на распространение Utaun](./Разрешение на распространение Utaun.md)
+[Разрешение на распространение Utaun](./РазрешениенараспространениеUtaun.md)
 
 [Официальный магазин SiveProject (BOOTH)](https://hyuyu.booth.pm/)  
 [【SiveProject】Награда за поддержку Utaun: обои для рабочего стола (Sine-wave Jack)-￥100](https://hyuyu.booth.pm/items/8376172)  
