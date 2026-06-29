@@ -62,7 +62,7 @@ Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇨🇳
 
 ### 关于Utaun 的再分发许可
-[关于Utaun 的再分发许可](./关于Utaun的再分发许可.txt)
+[关于Utaun 的再分发许可](./关于Utaun的再分发许可.md)
 
 ### Support the Development / 开发支援
 为了继续 Utaun 的开发，我们在 BOOTH 发布了开发支援奖励。  
