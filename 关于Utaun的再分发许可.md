@@ -13,3 +13,5 @@
   - 分发地址 URL: (请填写发布地址)
   - 分发者名称/ID: (请填写你的名称或ID)
   - 分发者联系邮箱: (请在此填写你的邮箱地址，以便发送邮件)
+
+[README_MIRROR_ch.txt]./(README_MIRROR_ch.txt)
