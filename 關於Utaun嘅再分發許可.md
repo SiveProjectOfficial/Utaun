@@ -14,4 +14,4 @@
   - 分發者名稱/ID: (請填寫你嘅名稱或ID)
   - 分發者聯繫郵箱: (請在此填寫你嘅郵箱地址，以便發送郵件)
 
-[README_MIRROR](./README_MIRROR
+[README_MIRROR](./README_MIRRORzh_hk.txt)
