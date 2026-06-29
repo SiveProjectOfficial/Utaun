@@ -61,6 +61,8 @@ Utaun 软件本体 (`Utaun.exe`) 禁止以下行为：
 Releases
 https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇨🇳
 
+### 关于 [Utaun 的再分发许可]
+
 ## Support the Development / 开发支援
 为了继续 Utaun 的开发，我们在 BOOTH 发布了开发支援奖励。  
 您的支持将用于后续更新、维护开发环境以及提升工具质量。
