@@ -30,6 +30,9 @@
 4. 启动 `Utaun.exe` 并按照屏幕指示操作。
 5. 当显示“（音源名）.zip 已在文档中生成！”时，UTAU 音源即制作完成。
 
+**UI image**
+ ![Test Image 3](IMG_4239.jpeg)
+
 ### 【生成的 UTAU 音源使用方法】
 * **UTAU**：解压生成的 ZIP，即可获得可直接导入 UTAU 的音源文件夹。
 * **OpenUTAU**：可以直接以 ZIP 格式导入（无需解压）。
