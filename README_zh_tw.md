@@ -10,6 +10,9 @@
 * 支援平假名別名 + 英語羅馬字別名。
 * 自動生成 `oto.ini` / `character.txt` / `readme.txt`。
 
+**UI image**
+ ![Test Image 3](IMG_4239.jpeg)
+
 ### 【利用條款】
 禁止加工、改造或再發布軟體。音源生成物的權利歸您所有。
 
