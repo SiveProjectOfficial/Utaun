@@ -10,6 +10,9 @@ Oprogramowanie Windows do generowania banków głosowych CV dla UTAU przy użyci
 * Obsługa aliasów Hiragana i Romaji.
 * Automatyczne tworzenie `oto.ini`, `character.txt` i `readme.txt`.
 
+**UI image**
+ ![Test Image 3](IMG_4239.jpeg)
+
 ### 【Zasady】
 Modyfikacja, użytek komercyjny i redystrybucja oprogramowania są zabronione. Prawa do wygenerowanych banków należą do Ciebie.
 
