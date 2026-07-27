@@ -10,6 +10,9 @@ Software Windows que gera bancos de voz CV para UTAU via síntese aditiva. Cria 
 * Suporta aliases em Hiragana e Romaji.
 * Gera automaticamente `oto.ini`, `character.txt` e `readme.txt`.
 
+**UI image**
+ ![Test Image 3](IMG_4239.jpeg)
+
 ### 【Termos】
 Proibida modificação, uso comercial ou redistribuição do software. Você decide os termos dos bancos gerados.
 
