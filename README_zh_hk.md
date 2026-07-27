@@ -10,6 +10,9 @@
 * 支援平假名同羅馬字 Alias。
 * 自動整埋 `oto.ini`、`character.txt` 同 `readme.txt`。
 
+**UI image**
+ ![Test Image 3](IMG_4239.jpeg)
+
 ### 【利用條款】
 禁止改裝、商用或者再發布軟件。整出嚟嘅音源規約由你自己定。
 
