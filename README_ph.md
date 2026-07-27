@@ -17,7 +17,7 @@ Windows software na gumagawa ng UTAU CV voice banks gamit ang additive synthesis
 3. Patakbuhin ang `Utaun.exe` at sundin ang instructions.
 4. Ang ZIP ay mabubuo sa iyong Documents folder.
 
-**UIイメージ**
+**UI image**
  ![Test Image 3](IMG_4239.jpeg)
 
 ### 【Kasunduan】
