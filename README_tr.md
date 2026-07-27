@@ -10,6 +10,9 @@ Yalnızca eklemeli sentez kullanarak UTAU için CV ses bankaları oluşturan bir
 * Hiragana ve Romaji alias desteği.
 * `oto.ini`, `character.txt` ve `readme.txt` dosyalarını otomatik oluşturur.
 
+**UI image**
+ ![Test Image 3](IMG_4239.jpeg)
+
 ### 【Şartlar】
 Yazılımın değiştirilmesi, ticari kullanımı veya yeniden dağıtılması yasaktır. Üretilen sesler kullanıcıya aittir.
 
