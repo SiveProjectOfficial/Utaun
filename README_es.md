@@ -18,6 +18,9 @@ Software de Windows que genera bancos de voz CV para UTAU mediante síntesis adi
 3. Ejecuta `Utaun.exe` y sigue los pasos.
 4. El archivo final aparecerá en tu carpeta de Documentos.
 
+**UIイメージ**
+ ![Test Image 3](IMG_4239.jpeg)
+
 ### 【Términos】
 Prohibida la modificación, uso comercial o redistribución del software. Eres libre de decidir los términos de los bancos generados.
 
