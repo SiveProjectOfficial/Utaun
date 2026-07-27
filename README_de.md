@@ -19,6 +19,9 @@ Utaun ist eine Windows-Software, die UTAU-CV-Stimmbanken ausschließlich durch a
 3. `Utaun.exe` starten und Anweisungen folgen.
 4. Die fertige ZIP liegt in Ihrem Dokumente-Ordner.
 
+**UIイメージ**
+ ![Test Image 3](IMG_4239.jpeg)
+
 ### 【Bedingungen】
 Modifikation, kommerzielle Nutzung und Weiterverbreitung der Software sind untersagt. Die generierten Stimmbanken gehören Ihnen.
 
