@@ -17,6 +17,9 @@ Un logiciel Windows générant des banques de voix CV pour UTAU par synthèse ad
 3. Lancer `Utaun.exe` et suivre les instructions.
 4. Votre banque de voix est prête dans le dossier Documents.
 
+**UI image**
+ ![Test Image 3](IMG_4239.jpeg)
+
 ### 【Conditions】
 Modification, usage commercial et redistribution du logiciel interdits. Vous êtes libre de définir les règles pour vos banques générées.
 
