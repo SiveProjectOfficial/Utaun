@@ -30,7 +30,7 @@ Utaun is Windows software that generates CV voicebanks for UTAU using only non-b
 4. Launch `Utaun.exe` and follow the on-screen instructions.
 5. When the message "(Voicebank Name).zip has been created in Documents!" appears, your UTAU voicebank is complete.
 
-**UIイメージ**
+**UI image**
  ![Test Image 3](IMG_4239.jpeg)
 
 ### 【How to Use Generated UTAU Voicebanks】
