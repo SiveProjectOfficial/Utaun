@@ -53,12 +53,12 @@
 
 # 【Utaunの使用方法】
 
-① [**GitHub Releases**](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇯🇵)から最新の Utaun をダウンロードします。
-② ZIPフォルダをダウンロードされる場合は、**「子音部・濁音部フォルダ」と「oto.ini」を「ドキュメント」フォルダ（OneDrive内のドキュメントでもOK）の中に直接置いてください。**（※インストーラー版をご利用の場合は自動で配置されます）
-③ Utaun.exe を任意のフォルダに置きます。
-④ Utaun.exe を起動し、画面の指示に従って音源を作成します。
-⑤ データの保存先として、ZIP出力（ドキュメント等）のほか、UTAUとOpenUTAUへのフォルダ状態での直接エクスポートが選択できます。
-※ 今後のバージョンからは自動アップデート機能がご利用いただけます。
+① [**GitHub Releases**](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇯🇵)から最新の Utaun をダウンロードします。  
+② ZIPフォルダをダウンロードされる場合は、**「子音部・濁音部フォルダ」と「oto.ini」を「ドキュメント」フォルダ（OneDrive内のドキュメントでもOK）の中に直接置いてください。**（※インストーラー版をご利用の場合は自動で配置されます）  
+③ Utaun.exe を任意のフォルダに置きます。  
+④ Utaun.exe を起動し、画面の指示に従って音源を作成します。  
+⑤ データの保存先として、ZIP出力（ドキュメント等）のほか、UTAUとOpenUTAUへのフォルダ状態での直接エクスポートが選択できます。  
+※ 今後のバージョンからは自動アップデート機能がご利用いただけます。  
 
 ### UIイメージ  
  ![Test Image 3](IMG_4239.jpeg)
