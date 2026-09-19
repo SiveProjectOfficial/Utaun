@@ -1,8 +1,8 @@
 [🇺🇸 Back to Language Selection](./README.md)​
 # What is Utaun?
 
-Utaun is a Windows software that generates CV (Consonant-Vowel) voicebanks for UTAU using purely inanimate additive synthesis.
-It supports automated ZIP file generation in your Documents folder as well as direct exports to various UTAU-compatible software.
+Utaun is a Windows software that generates CV (Consonant-Vowel) voicebanks for UTAU using purely inanimate additive synthesis.  
+It supports automated ZIP file generation in your Documents folder as well as direct exports to various UTAU-compatible software.  
 
 # Features
 
@@ -42,21 +42,21 @@ It supports automated ZIP file generation in your Documents folder as well as di
 
 # Compatibility & Usage of Generated Voicebanks
 
-* **UTAU**
-  Export directly as an uncompressed voicebank folder into your `voice` folder from within the app and use it immediately.
-* **OpenUTAU**
-  Export directly as an uncompressed voicebank folder into your `Singers` folder from within the app and use it immediately.
-* **UtauTTS**
-  Extract the exported ZIP file and place it into the `voice` folder of `utauTTS`.
-* **UtauV**
-  Drag and drop the ZIP file into the running UtauV application window.
-* **UTAlet (Web Version)**
-  Drag and drop the ZIP file onto the official website screen.
-*Note: For specific usage instructions in each software or web environment, please refer to their respective help files, manuals, or official documentation.*
+* **UTAU**  
+  Export directly as an uncompressed voicebank folder into your `voice` folder from within the app and use it immediately.  
+* **OpenUTAU**  
+  Export directly as an uncompressed voicebank folder into your `Singers` folder from within the app and use it immediately.  
+* **UtauTTS**  
+  Extract the exported ZIP file and place it into the `voice` folder of `utauTTS`.  
+* **UtauV**  
+  Drag and drop the ZIP file into the running UtauV application window.  
+* **UTAlet (Web Version)**  
+  Drag and drop the ZIP file onto the official website screen.  
+*Note: For specific usage instructions in each software or web environment, please refer to their respective help files, manuals, or official documentation.*  
 
 # System Requirements
 
-* Windows 10 to 11 (64-bit / 32-bit supported)
+* Windows 10 to 11 (64-bit / 32-bit supported)  
 **(Note: 32-bit is used as the baseline due to file size considerations, but it works without issues on 64-bit Windows as well.)**
 
 # Unsupported Features
@@ -80,9 +80,9 @@ The following actions are strictly prohibited regarding the Utaun application it
 
 # Generated Content
 
-(Voicebanks, `.wav` files, `icon.jpg` / `icon.bmp`, `oto.ini`, etc.)
-You (the distributor) are free to set your own terms of use for the generated contents.
-Please write your preferred license terms inside `readme.txt`.
+(Voicebanks, `.wav` files, `icon.jpg` / `icon.bmp`, `oto.ini`, etc.)  
+You (the distributor) are free to set your own terms of use for the generated contents.  
+Please write your preferred license terms inside `readme.txt`.  
 
 For update information and details, please check the GitHub **Releases** page.
 
