@@ -87,4 +87,4 @@ Utaun 본체(`Utaun.exe`)에서는 다음 행위가 금지됩니다.
 업데이트 정보 및 자세한 내용은 GitHub **Releases** 페이지를 참조해 주세요.  
 
 # Releases  
-[Download Korean Version of Utaun ->](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇰🇷)
+[Download Korean Version of Utaun **→**](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇰🇷)
