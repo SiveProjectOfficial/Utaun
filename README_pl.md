@@ -1,6 +1,5 @@
 [🇵🇱 Powrót do wyboru języka](./README.md)
-​# Czym jest Utaun?  
-  
+# Czym jest Utaun?
 Utaun to oprogramowanie dla systemu Windows, które generuje banki głosów CV (Spółgłoska-Samogłoska) dla UTAU przy użyciu wyłącznie bezdusznego modelowania sinusoidalnego złożonego (synteza mowy CSM).  
 Obsługuje automatyczne generowanie archiwów ZIP z bankiem głosów w folderze Dokumenty, a także bezpośredni eksport do różnych programów kompatybilnych z UTAU.  
 
