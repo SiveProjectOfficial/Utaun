@@ -87,4 +87,4 @@ Please write your preferred license terms inside `readme.txt`.
 For update information and details, please check the GitHub **Releases** page.
 
 # Releases
-[Download English Version of Utaun →](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇺🇸)
+[Download English Version of Utaun **→**](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇺🇸)
