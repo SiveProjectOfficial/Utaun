@@ -29,7 +29,7 @@ Utaun 係一套 Windows 軟件，純粹透過完全無生物嘅複合正弦波�
 
 # 點樣用 Utaun  
 
-① 喺 **GitHub Releases** 下載最新版本嘅 Utaun。  
+① 喺 **Releases** 下載最新版本嘅 Utaun。  
 ② 如果你下載嘅係 ZIP 資料夾版本，**請將「輔音/濁音資料夾」同 `oto.ini` 直接擺喺「文件」資料夾入面（亦都支援 OneDrive 文件）。**（註：如果用安裝程式版本嘅話會自動擺好）  
 ③ 將 `Utaun.exe` 擺喺你鍾意嘅任何資料夾入面。  
 ④ 啟動 `Utaun.exe`，然後跟住畫面嘅指示嚟建立音源。  
