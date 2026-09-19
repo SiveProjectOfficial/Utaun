@@ -30,7 +30,7 @@ It supports automated ZIP file generation in your Documents folder as well as di
 
 # How to Use Utaun
 
-① Download the latest version of Utaun from **[GitHub Releases](#Releases)**.
+① Download the latest version of Utaun from **[GitHub Releases](#Releases)**.  
 ② If you are downloading the ZIP folder version, **place the "Consonant/Voiced Sound folders" and `oto.ini` directly inside your "Documents" folder (OneDrive Documents are also supported).** (Note: These are automatically placed if you use the installer version).  
 ③ Place `Utaun.exe` in any folder of your choice.  
 ④ Launch `Utaun.exe` and follow the on-screen instructions to create your voicebank.  
