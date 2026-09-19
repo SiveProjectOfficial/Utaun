@@ -1,14 +1,13 @@
 [🇨🇳 返回语言选择](./README.md)
-
 # 什么是 Utaun？  
   
-Utaun 是一款 Windows 软件，仅通过完全无生物的加法合成（Additive Synthesis）为 UTAU 生成 CV（辅音-元音）音源。  
+Utaun 是一款 Windows 软件，仅通过完全无生物的复合正弦波建模（CSM语音合成）为 UTAU 生成 CV（辅音-元音）音源。  
 它支持在“文档”文件夹中自动生成音源 ZIP，以及直接导出到各种兼容 UTAU 的软件。  
 
 # 特点  
 
 * 运行后可在文档文件夹中自动生成音源 ZIP，或直接导出至兼容软件。  
-* 通过完全无生物的加法合成生成元音（A、I、U、E、O、N）。  
+* 通过完全无生物的复合正弦波建模（CSM语音合成）生成元音（A、I、U、E、O、N）。  
 * 将附带的辅音和浊音文件夹放置在文档目录中即可生成 CV 音源。  
 * 在程序内自动生成 m、n、y、w 行。  
 * 支持平假名别名 + 英语罗马字别名（发音全部为日语）。  
@@ -24,7 +23,7 @@ Utaun 是一款 Windows 软件，仅通过完全无生物的加法合成（Addit
 
 * 想要使用无生物或人工声音制作 UTAU 音源时。  
 * 不擅长或不方便用自己的声音进行录音时的音源制作。  
-* 研究加法合成音频素材。  
+* 研究复合正弦波建模（CSM语音合成）音频素材。  
 * 自制音源的原型制作。  
 * 解压生成的 ZIP，直接用作人工 Vocaloid 素材。  
 * 作为视频混音（如鬼畜音MAD、YTPMV 等）的音频素材。  
@@ -58,7 +57,7 @@ Utaun 是一款 Windows 软件，仅通过完全无生物的加法合成（Addit
 # 运行环境  
 
 * Windows 10 至 11（支持 64位 / 32位）  
-**(注：出于文件大小等考量，以 32位版本为基准，但在 64位 Windows 上也能正常运行。)**  
+**(Note: 出于文件大小等考量，以 32位版本为基准，但在 64位 Windows 上也能正常运行。)**  
 
 # 不支持的功能  
 
@@ -88,7 +87,7 @@ Utaun 是一款 Windows 软件，仅通过完全无生物的加法合成（Addit
 有关更新信息和详细信息，请查看 GitHub **Releases** 页面。  
 
 # Releases  
-[Download Simplified Chinese Version of Utaun**→**](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇨🇳)
+[Download Simplified Chinese Version of Utaun →](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇨🇳)
 
 ### 关于Utaun 的再分发许可
 [关于Utaun 的再分发许可**→**](./关于Utaun的再分发许可.md)
