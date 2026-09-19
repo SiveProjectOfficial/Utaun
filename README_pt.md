@@ -1,72 +1,90 @@
 [🇵🇹 Voltar à seleção de idioma](./README.md)
-#  【O que é o Utaun?】  
-É um software para Windows que gera bancos de voz CV para UTAU usando puramente síntese aditiva inanimada.  
-Ele gera automaticamente um ZIP do banco de voz na sua pasta Documentos.  
+​# O que é o Utaun?  
+  
+O Utaun é um software para Windows que gera voicebanks CV (Consoante-Vogal) para o UTAU usando exclusivamente modelagem senoidal composta (síntese de voz CSM) puramente inanimada.  
+Ele suporta a geração automática de arquivos ZIP de voicebank na sua pasta Documentos, bem como exportações diretas para vários softwares compatíveis com o UTAU.  
 
-#  【Recursos】   
- ・Gera automaticamente um ZIP do banco de voz em Documentos ao ser executado  
- ・Geração de vogais (a, i, u, e, o, n) através de síntese aditiva puramente inanimada  
- ・Gera bancos de voz CV combinando com fileiras de consoantes externas (fileiras ka a pa)  
- ・Geração interna das fileiras m / n / y / w  
- ・Suporte a apelidos em Hiragana + apelidos em Romaji inglês (todas as pronúncias são em japonês)  
- ・Gera automaticamente oto.ini / character.txt / readme.txt  
- ・Pode converter imagens PNG para JPG  
- ・Os arquivos readme.txt e character.txt são gerados em Shift_JIS (ANSI) para evitar problemas de codificação  
- ・Você pode alterar a frequência fundamental (altura da voz)  
- ・Você pode definir livremente o nome do banco de voz (nome do personagem)  
+# Recursos  
 
-#  【Usos Pretendidos】  
- ・Quando você quer criar um banco de voz UTAU com uma voz inanimada  
- ・Criação de bancos de voz para pessoas que não gostam de gravar com a própria voz  
- ・Pesquisa de materiais de voz por síntese aditiva  
- ・Prototipagem de bancos de voz próprios  
- ・Descompactar o ZIP e usá-lo diretamente como material de Vocaloid feito por humanos (Jinkiri-VOCALOID)  
- ・Uso como material para OtoMADs, YTPMVs, etc.  
+* Gera automaticamente um ZIP de voicebank na sua pasta Documentos ou exporta diretamente para softwares compatíveis ao ser executado.  
+* Gera vogais (A, I, U, E, O, N) através de modelagem senoidal composta (síntese de voz CSM) puramente inanimada.  
+* Configure as pastas de consoantes e sons sonoros incluídas no seu diretório Documentos para gerar voicebanks CV.  
+* Gera automaticamente as linhas m, n, y e w dentro do programa.  
+* Suporta apelidos em Hiragana + apelidos em Romaji em inglês (todos pronunciados em japonês).  
+* Gera automaticamente `oto.ini`, `character.txt` e `readme.txt`.  
+* Converte imagens PNG simultaneamente para os formatos JPG e BMP (Nota: o JPG é usado para o `character.txt`).  
+* A codificação do `readme.txt` e do `character.txt` pode ser selecionada entre **Shift-JIS (ANSI)** e **UTF-8** (Nota: o UTF-8 oferece compatibilidade com o OpenUTAU e outros).  
+* Permite alterar a frequência fundamental (tom).  
+* Nome do voicebank (nome do personagem) livremente personalizável.  
+* **Suporta os modos Claro (Light) e Escuro (Dark).**  
+* **Permite escolher o destino de exportação.**  
 
-#  【Como usar o Utaun】  
- ① Baixe o `Utaun.ver-1.0.3.zip`. (Por favor, baixe em Releases.)  
- ② Extraia (descompacte) o `Utaun.ver-1.0.3.zip`.  
- ③ Coloque o `Utaun.exe` em qualquer pasta (Área de trabalho recomendada).  
- ④ Inicie o `Utaun.exe` e siga as instruções na tela.  
- ⑤ Quando a mensagem "（音源名）.zip がドキュメントに出来上がったよ！" aparecer, o banco de voz do UTAU estará concluído.  
+# Uso Pretendido  
 
-**Imagem de UI**
- ![Test Image 3](IMG_4239.jpeg)
+* Quando você quiser criar voicebanks do UTAU usando vozes inanimadas ou artificiais.  
+* Para a produção de voicebanks se você achar difícil ou desconfortável gravar com sua própria voz.  
+* Pesquisa de materiais de áudio baseados em modelagem senoidal composta (síntese de voz CSM).  
+* Prototipagem de voicebanks personalizados.  
+* Descompactar o ZIP gerado para usar diretamente como ativos de vocaloid gerados por humanos (simulação de voz humana).  
+* Uso como materiais de áudio para remixes de vídeo (por exemplo, OtoMAD, YTPMV).  
 
-#  【Como usar o banco de voz UTAU gerado】  
- ・UTAU  
-   Ao descompactar o ZIP gerado, uma pasta de banco de voz pronta para ser carregada no UTAU será revelada.  
- ・OpenUTAU  
-   Pode ser carregado diretamente como um arquivo ZIP (sem necessidade de descompactar).  
- ※ Consulte a ajuda, manuais e documentação oficial de cada software para obter instruções específicas de uso.  
+# Como Usar o Utaun  
 
-#  【Requisitos do Sistema】  
- ・Windows 10–11 (64-bit)  
- ・Windows 10–11 (32-bit)  
+① Baixe a versão mais recente do Utaun em **[GitHub Releases](#Releases)**.  
+② Se você estiver baixando a versão em pasta ZIP, **coloque as pastas "Consonant/Voiced Sound" e o `oto.ini` diretamente dentro da sua pasta "Documentos" (Documentos do OneDrive também são suportados).** (Nota: Elas são colocadas automaticamente se você usar a versão do instalador).  
+③ Coloque o `Utaun.exe` em qualquer pasta de sua escolha.  
+④ Inicie o `Utaun.exe` e siga as instruções na tela para criar seu voicebank.  
+⑤ Para o destino de salvamento dos dados, você pode escolher entre saída ZIP (Documentos, etc.) ou exportação direta de pasta para o UTAU e OpenUTAU.  
+*Nota: O recurso de atualização automática estará disponível em versões futuras.*  
 
-**【Não suportado】**  
- ・Vogais com dakuten (あ゙・い゙・ゔ・え゙・お゙)  
- ・Variações expressivas como sussurros, respirações e componentes de sopro  
- ・Sons contraídos (kya, kyu, kyo / sha, shu, sho, etc.)  
- ・VCV (Som Contínuo)  
- ・CVVC  
- ・Outras pronúncias especiais  
+### Imagem da Interface (UI)  
+![Test Image 3](IMG_4239.jpeg)  
 
-#  【Termos de Uso】  
-As seguintes ações são proibidas para o aplicativo Utaun (`Utaun.exe`):  
- ・Modificação  
- ・Edição  
- ・Alteração  
- ・Uso comercial  
- ・Redistribuição  
- ・Descompilação (desmontagem)  
+# Compatibilidade e Uso dos Voicebanks Gerados  
 
-#  【Sobre o Conteúdo Gerado】  
-(Bancos de voz, wav, icon.jpg, oto.ini, etc.)  
-Os termos de uso podem ser definidos livremente por você (o distribuidor).  
-Por favor, escreva suas regras preferidas no arquivo `readme.txt`.  
-Para atualizações, consulte a seção Releases.  
+* **UTAU**  
+  Exporte diretamente como uma pasta de voicebank descompactada para sua pasta `voice` de dentro do aplicativo e use-a imediatamente.  
+* **OpenUTAU**  
+  Exporte diretamente como uma pasta de voicebank descompactada para sua pasta `Singers` de dentro do aplicativo e use-a imediatamente.  
+* **UtauTTS**  
+  Extraia o arquivo ZIP exportado e coloque-o na pasta `voice` do `utauTTS`.  
+* **UtauV**  
+  Arraste e solte o arquivo ZIP na janela do aplicativo UtaunV em execução.  
+* **UTAlet (Versão Web)**  
+  Arraste e solte o arquivo ZIP na tela do site oficial.  
+*Nota: Para instruções de uso específicas em cada software ou ambiente web, consulte seus respectivos arquivos de ajuda, manuais ou documentação oficial.*  
 
-Releases
-https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇵🇹
+# Requisitos do Sistema  
 
+* Windows 10 a 11 (suporte a 64 bits / 32 bits)  
+**(Nota: O sistema de 32 bits é usado como base devido a considerações de tamanho de arquivo, mas funciona sem problemas em Windows de 64 bits também.)**  
+
+# Recursos Não Suportados  
+
+* Vogais vozeadas (あ゙, い゙, ゔ, え゙, お゙)  
+* Variações expressivas, como sussurros, respirações ou componentes de baforada  
+* Sons palatizados (ex.: kya, kyu, kyo / sha, shu, sho)  
+* VCV (Vogais Contínuas)  
+* CVVC  
+* Outras pronúncias especiais  
+
+# Termos de Uso  
+
+As seguintes ações são estritamente proibidas em relação ao aplicativo Utaun em si (`Utaun.exe`):  
+* Modificação  
+* Edição  
+* Alteração  
+* Uso comercial  
+* Redistribuição  
+* Descompilação (desmontagem)  
+
+# Conteúdo Gerado  
+
+(Voicebanks, arquivos `.wav`, `icon.jpg` / `icon.bmp`, `oto.ini`, etc.)  
+Você (o distribuidor) é livre para definir seus próprios termos de uso para os conteúdos gerados.  
+Por favor, escreva seus termos de licença preferidos dentro do `readme.txt`.  
+
+Para informações de atualização e detalhes, verifique a página de **Releases** no GitHub.  
+
+# Releases  
+[Download Portuguese Version of Utaun →](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇵🇹)
