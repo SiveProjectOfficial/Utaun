@@ -1,13 +1,13 @@
-[🇰🇷 언어 선택으로 돌아가기](./README.md)​
+[🇰🇷 언어 선택으로 돌아가기](./README.md)​​
 # Utaun란?  
   
-Utaun은 완전 무생물의 가산 합성만으로 UTAU용 CV 음성 뱅크를 생성하는 Windows 소프트웨어입니다.  
+Utaun은 완전 무생물의 복합 정현파 모델링(CSM 음성 합성)만으로 UTAU용 CV 음성 뱅크를 생성하는 Windows 소프트웨어입니다.  
 문서 폴더로의 ZIP 자동 생성 및 각종 UTAU 관련 소프트웨어로의 직접 내보내기를 지원합니다.  
 
 # 특징  
 
 * 실행 시 문서 폴더에 음성 뱅크 ZIP을 자동 생성하거나 호환 소프트웨어로 직접 내보내기  
-* 완전 무생물의 가산 합성을 통한 모음 생성 (A, I, U, E, O, N)  
+* 완전 무생물의 복합 정현파 모델링(CSM 음성 합성)을 통한 모음 생성 (A, I, U, E, O, N)  
 * 동봉된 자음부 및 탁음부 폴더를 문서 디렉토리에 세팅하여 CV 음성 뱅크 생성  
 * 프로그램 내에서 m, n, y, w 행을 자동 생성  
 * 히라가나 별칭 + 영어 로마자 별칭 지원 (발음은 모두 일본어)  
@@ -23,8 +23,8 @@ Utaun은 완전 무생물의 가산 합성만으로 UTAU용 CV 음성 뱅크를 
 
 * 무생물의 목소리로 UTAU 음성 뱅크를 만들고 싶을 때  
 * 육성 녹음이 부담스럽거나 어려운 사람의 음성 뱅크 제작  
-* 가산 합성 음성 소재 연구  
-* 자작 음성 뱅크 프로토타이ピング  
+* 복합 정현파 모델링(CSM 음성 합성) 음성 소재 연구  
+* 자작 음성 뱅크 프로토타이핑  
 * 생성된 ZIP을 압축 해제하여 인력 보카로 소재로 직접 사용  
 * 매드무비(OtoMAD, YTPMV) 등의 소재로 활용  
 
@@ -87,4 +87,4 @@ Utaun 본체(`Utaun.exe`)에서는 다음 행위가 금지됩니다.
 업데이트 정보 및 자세한 내용은 GitHub **Releases** 페이지를 참조해 주세요.  
 
 # Releases  
-[Download Korean Version of Utaun **→**](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇰🇷)
+[Download Korean Version of Utaun →](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇰🇷)
