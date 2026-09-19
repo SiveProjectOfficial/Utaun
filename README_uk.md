@@ -1,13 +1,13 @@
 [🇬🇧 Back to Language Selection](./README.md)
 # What is Utaun?  
   
-Utaun is a Windows software that generates CV (Consonant-Vowel) voicebanks for UTAU using purely inanimate additive synthesis.  
+Utaun is a Windows software that generates CV (Consonant-Vowel) voicebanks for UTAU using purely inanimate Composite Sinusoidal Modeling (CSM speech synthesis).  
 It supports automated ZIP file generation in your Documents folder as well as direct exports to various UTAU-compatible software.  
 
 # Features  
 
 * Automatically generates a voicebank ZIP in your Documents folder or exports directly to compatible software upon execution.  
-* Generates vowels (A, I, U, E, O, N) through purely inanimate additive synthesis.  
+* Generates vowels (A, I, U, E, O, N) through purely inanimate Composite Sinusoidal Modeling (CSM speech synthesis).  
 * Set the included consonant and voiced sound folders in your Documents directory to generate CV voicebanks.  
 * Automatically generates m, n, y, and w rows within the programme.  
 * Supports Hiragana aliases + English Romaji aliases (all pronounced in Japanese).  
@@ -23,7 +23,7 @@ It supports automated ZIP file generation in your Documents folder as well as di
 
 * When you want to create UTAU voicebanks using inanimate or artificial voices.  
 * For voicebank production if you find it difficult or uncomfortable to record with your own voice.  
-* Researching additive synthesis audio materials.  
+* Researching Composite Sinusoidal Modeling (CSM speech synthesis) audio materials.  
 * Prototyping custom voicebanks.  
 * Unzipping the generated ZIP to use directly as human-made vocaloid (human-vocal simulation) assets.  
 * Using as audio materials for video remixes (e.g., OtoMAD, YTPMV).  
@@ -87,4 +87,4 @@ Please write your preferred licence terms inside `readme.txt`.
 For update information and details, please check the GitHub **Releases** page.  
 
 # Releases  
-[Download British English Version of Utaun **→**](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇬🇧)
+[Download British English Version of Utaun →](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇬🇧)
