@@ -110,5 +110,5 @@ readme.txt にお好きな規約を書いてください。
 アップデート情報や詳細については、GitHubの **Releases** をご覧ください。
 
 # Releases
-[日本語版Utaunダウンロード先→](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇯🇵)
+[日本語版Utaunダウンロード先**→**](https://github.com/SiveProjectOfficial/Utaun/releases/tag/🇯🇵)
 
