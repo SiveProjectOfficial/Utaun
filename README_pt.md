@@ -1,5 +1,6 @@
 [🇵🇹 Voltar à seleção de idioma](./README.md)
-​# O que é o Utaun?  
+​
+# O que é o Utaun?  
   
 O Utaun é um software para Windows que gera voicebanks CV (Consoante-Vogal) para o UTAU usando exclusivamente modelagem senoidal composta (síntese de voz CSM) puramente inanimada.  
 Ele suporta a geração automática de arquivos ZIP de voicebank na sua pasta Documentos, bem como exportações diretas para vários softwares compatíveis com o UTAU.  
