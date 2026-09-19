@@ -1,6 +1,6 @@
 [🇻🇳 Quay lại chọn ngôn ngữ](./README.md)
-​# Utaun là gì?  
-  
+# Utaun là gì? 
+
 Utaun là một phần mềm Windows tạo ra các ngân hàng giọng hát CV (Phụ âm-Nguyên âm) cho UTAU bằng cách sử dụng độc quyền mô hình hình sin hỗn hợp (tổng hợp giọng nói CSM) hoàn toàn vô tri vô giác.  
 Nó hỗ trợ tự động tạo tệp lưu trữ ZIP của ngân hàng giọng hát trong thư mục Tài liệu (Documents), cũng như xuất trực tiếp sang các phần mềm tương thích với UTAU khác nhau.  
 
