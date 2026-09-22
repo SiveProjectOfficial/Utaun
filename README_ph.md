@@ -37,8 +37,21 @@ Sinusuportahan nito ang awtomatikong paggawa ng ZIP archive ng voicebank sa Docu
 ⑤ Bilang lokasyon ng pag-save ng data, maaari kang pumili sa pagitan ng ZIP output (Documents, atbp.) o direktang pag-export ng folder sa UTAU at OpenUTAU.  
 *Paalala: Ang tampok na awtomatikong pag-update ay magiging available sa mga susunod na bersyon.*  
 
-### Larawan ng Interface (UI)  
-![Test Image 3](IMG_4239.jpeg)  
+# UI
+**UI (Screen ng Operasyon - Light)**   
+ ![Test Image 3](UI/IMG_5542.jpeg)  
+**UI (Screen ng Mga Setting - Light)**  
+![Test Image4](UI/IMG_5538.jpeg)
+**UI (Screen ng Operasyon - Dark)**  
+![Test Image5](UI/IMG_5540.jpeg)  
+**UI (Screen ng Mga Setting - Dark)**  
+![Test Image6](UI/IMG_5541.jpeg)  
+**UI (Screen ng Pag-export)**  
+![Test Image7](UI/IMG_5536.jpeg)  
+**UI (Screen ng Detalye ng Update)**  
+![Test Image8](UI/IMG_5539.jpeg)  
+**UI (Screen ng Update)**  
+![Test Image9](UI/IMG_5537.jpeg)
 
 # Compatibility at Paggamit ng mga Nilikhang Voicebank  
 
