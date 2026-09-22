@@ -72,7 +72,9 @@
 **UI（エクスポート中画面）**  
 ![Test Image7](UI/IMG_5536.jpeg)  
 **UI（アップデート内容確認画面）**  
-![Test Image8](UI/IMG_5539.jpeg)
+![Test Image8](UI/IMG_5539.jpeg)  
+**UI（アップデート画面）**  
+![Test Image9](UI/IMG_5537.jpeg)
 # 【生成した音源の対応・使用方法】  
 
 * **UTAU**  
