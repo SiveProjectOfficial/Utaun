@@ -37,8 +37,21 @@ Nó hỗ trợ tự động tạo tệp lưu trữ ZIP của ngân hàng giọng
 ⑤ Đối với vị trí lưu dữ liệu, bạn có thể chọn giữa đầu ra ZIP (Tài liệu, v.v.) hoặc xuất thư mục trực tiếp sang UTAU và OpenUTAU.  
 *Lưu ý: Tính năng cập nhật tự động sẽ có sẵn trong các phiên bản tương lai.*  
 
-### Hình ảnh giao diện (UI)  
-![Test Image 3](IMG_4239.jpeg)  
+# UI
+**UI (Màn hình thao tác - Sáng)**   
+ ![Test Image 3](UI/IMG_5542.jpeg)  
+**UI (Màn hình cài đặt - Sáng)**  
+![Test Image4](UI/IMG_5538.jpeg)
+**UI (Màn hình thao tác - Tối)**  
+![Test Image5](UI/IMG_5540.jpeg)  
+**UI (Màn hình cài đặt - Tối)**  
+![Test Image6](UI/IMG_5541.jpeg)  
+**UI (Màn hình đang xuất)**  
+![Test Image7](UI/IMG_5536.jpeg)  
+**UI (Màn hình chi tiết cập nhật)**  
+![Test Image8](UI/IMG_5539.jpeg)  
+**UI (Màn hình cập nhật)**  
+![Test Image9](UI/IMG_5537.jpeg)
 
 # Khả năng tương thích và cách sử dụng ngân hàng giọng hát được tạo  
 
