@@ -36,8 +36,22 @@ Obsługuje automatyczne generowanie archiwów ZIP z bankiem głosów w folderze 
 ⑤ Jako lokalizację zapisu danych możesz wybrać wyjściowy plik ZIP (Dokumenty itp.) lub bezpośredni eksport folderu do UTAU i OpenUTAU.  
 *Uwaga: Funkcja automatycznej aktualizacji będzie dostępna w przyszłych wersjach.*  
 
-### Interfejs użytkownika (UI)  
-![Test Image 3](IMG_4239.jpeg)  
+# UI
+**UI (Ekran sterowania - Jasny)**   
+ ![Test Image 3](UI/IMG_5542.jpeg)  
+**UI (Ekran ustawień - Jasny)**  
+![Test Image4](UI/IMG_5538.jpeg)
+**UI (Ekran sterowania - Ciemny)**  
+![Test Image5](UI/IMG_5540.jpeg)  
+**UI (Ekran ustawień - Ciemny)**  
+![Test Image6](UI/IMG_5541.jpeg)  
+**UI (Ekran eksportu)**  
+![Test Image7](UI/IMG_5536.jpeg)  
+**UI (Ekran szczegółów aktualizacji)**  
+![Test Image8](UI/IMG_5539.jpeg)  
+**UI (Ekran aktualizacji)**  
+![Test Image9](UI/IMG_5537.jpeg)
+
 
 # Kompatybilność i użycie wygenerowanych banków głosów  
 
