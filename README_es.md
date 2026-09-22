@@ -38,8 +38,21 @@ Admite la generación automática de archivos ZIP de bancos de voz en su carpeta
 ⑤ Para el destino de guardado de datos, puede elegir entre la salida ZIP (Documentos, etc.) o la exportación directa de carpetas a UTAU y OpenUTAU.  
 *Nota: La función de actualización automática estará disponible en futuras versiones.*  
 
-### Imagen de la interfaz (UI)  
-![Test Image 3](IMG_4239.jpeg)  
+# UI
+**UI (Pantalla de Operación - Claro)**   
+ ![Test Image 3](UI/IMG_5542.jpeg)  
+**UI (Pantalla de Configuración - Claro)**  
+![Test Image4](UI/IMG_5538.jpeg)
+**UI (Pantalla de Operación - Oscuro)**  
+![Test Image5](UI/IMG_5540.jpeg)  
+**UI (Pantalla de Configuración - Oscuro)**  
+![Test Image6](UI/IMG_5541.jpeg)  
+**UI (Pantalla de Exportación)**  
+![Test Image7](UI/IMG_5536.jpeg)  
+**UI (Pantalla de Detalles de Actualización)**  
+![Test Image8](UI/IMG_5539.jpeg)  
+**UI (Pantalla de Actualización)**  
+![Test Image9](UI/IMG_5537.jpeg)
 
 # Compatibilidad y uso de los bancos de voz generados  
 
