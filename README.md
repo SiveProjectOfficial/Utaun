@@ -62,7 +62,8 @@
 
 ### UI（操作画面）  
  ![Test Image 3](UI/IMG_5542.jpeg)  
-
+### UI（設定画面）
+i[Test Image4](UI/IMG_5538.jpeg)
 # 【生成した音源の対応・使用方法】  
 
 * **UTAU**  
