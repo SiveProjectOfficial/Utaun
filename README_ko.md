@@ -36,9 +36,21 @@ Utaun은 완전 무생물의 복합 정현파 모델링(CSM 음성 합성)만으
 ④ `Utaun.exe`를 실행하고 화면의 안내에 따라 음성 뱅크를 만듭니다.  
 ⑤ 데이터 저장 위치로 문서 폴더 내 ZIP 출력 외에도, UTAU 및 OpenUTAU로의 직접 폴더 내보내기를 선택할 수 있습니다.  
 ※ 향후 버전부터는 자동 업데이트 기능을 이용하실 수 있습니다.  
-
-### UI 이미지  
-![Test Image 3](IMG_4239.jpeg)  
+# UI
+**UI (조작 화면 Light)**   
+ ![Test Image 3](UI/IMG_5542.jpeg)  
+**UI (설정 화면 Light)**  
+![Test Image4](UI/IMG_5538.jpeg)
+**UI (조작 화면 Dark)**  
+![Test Image5](UI/IMG_5540.jpeg)  
+**UI (설정 화면 Dark)**  
+![Test Image6](UI/IMG_5541.jpeg)  
+**UI (내보내기 중 화면)**  
+![Test Image7](UI/IMG_5536.jpeg)  
+**UI (업데이트 내용 확인 화면)**  
+![Test Image8](UI/IMG_5539.jpeg)  
+**UI (업데이트 화면)**  
+![Test Image9](UI/IMG_5537.jpeg)
 
 # 생성된 음성 뱅크의 대응 및 사용법  
 
