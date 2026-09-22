@@ -37,8 +37,21 @@ Supporta la generazione automatica di archivi ZIP di voicebank nella cartella Do
 ⑤ Come posizione di salvataggio dei dati, puoi scegliere tra l'output ZIP (Documenti, ecc.) o l'esportazione diretta della cartella su UTAU e OpenUTAU.  
 *Nota: La funzione di aggiornamento automatico sarà disponibile nelle versioni future.*  
 
-### Immagine dell'interfaccia (UI)  
-![Test Image 3](IMG_4239.jpeg)  
+# UI
+**UI (Schermata Operativa - Chiaro)**   
+ ![Test Image 3](UI/IMG_5542.jpeg)  
+**UI (Schermata Impostazioni - Chiaro)**  
+![Test Image4](UI/IMG_5538.jpeg)
+**UI (Schermata Operativa - Scuro)**  
+![Test Image5](UI/IMG_5540.jpeg)  
+**UI (Schermata Impostazioni - Scuro)**  
+![Test Image6](UI/IMG_5541.jpeg)  
+**UI (Schermata di Esportazione)**  
+![Test Image7](UI/IMG_5536.jpeg)  
+**UI (Schermata Dettagli Aggiornamento)**  
+![Test Image8](UI/IMG_5539.jpeg)  
+**UI (Schermata di Aggiornamento)**  
+![Test Image9](UI/IMG_5537.jpeg)
 
 # Compatibilità e utilizzo dei voicebank generati  
 
