@@ -68,9 +68,11 @@
 **UI（操作画面Dark）**  
 ![Test Image5](UI/IMG_5540.jpeg)  
 **UI（設定画面Dark）**  
-![Test Image6](UI/IMG_5541.jpeg)
-**UI（エクスポート中画面）**
-![Test Image7](UI/IMG_5536.jpeg)
+![Test Image6](UI/IMG_5541.jpeg)  
+**UI（エクスポート中画面）**  
+![Test Image7](UI/IMG_5536.jpeg)  
+**UI（アップデート内容確認画面）**  
+![Test Image8](UI/IMG_5539.jpeg)
 # 【生成した音源の対応・使用方法】  
 
 * **UTAU**  
