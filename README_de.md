@@ -37,8 +37,21 @@ Sie unterstützt die automatische Erstellung von Voicebank-ZIP-Archiven im Dokum
 ⑤ Als Datenspeicherort können Sie zwischen ZIP-Ausgabe (Dokumente etc.) oder direktem Ordner-Export für UTAU und OpenUTAU wählen.  
 *Hinweis: Die automatische Update-Funktion wird in zukünftigen Versionen verfügbar sein.*  
 
-### Benutzeroberfläche (UI)  
-![Test Image 3](IMG_4239.jpeg)  
+# UI
+**UI (Bedienungsbildschirm - Hell)**   
+ ![Test Image 3](UI/IMG_5542.jpeg)  
+**UI (Einstellungsbildschirm - Hell)**  
+![Test Image4](UI/IMG_5538.jpeg)
+**UI (Bedienungsbildschirm - Dunkel)**  
+![Test Image5](UI/IMG_5540.jpeg)  
+**UI (Einstellungsbildschirm - Dunkel)**  
+![Test Image6](UI/IMG_5541.jpeg)  
+**UI (Exportierbildschirm)**  
+![Test Image7](UI/IMG_5536.jpeg)  
+**UI (Update-Details-Bildschirm)**  
+![Test Image8](UI/IMG_5539.jpeg)  
+**UI (Update-Bildschirm)**  
+![Test Image9](UI/IMG_5537.jpeg)
 
 # Kompatibilität und Verwendung der generierten Voicebanks  
 
