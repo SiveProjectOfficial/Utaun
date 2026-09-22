@@ -60,10 +60,13 @@
 ⑤ データの保存先として、ZIP出力（ドキュメント等）のほか、UTAUとOpenUTAUへのフォルダ状態での直接エクスポートが選択できます。  
 ※ 今後のバージョンからは自動アップデート機能がご利用いただけます。  
 
-### UI（操作画面Light）  
+# UI
+**UI（操作画面Light）**   
  ![Test Image 3](UI/IMG_5542.jpeg)  
-### UI（設定画面Light）
+**UI（設定画面Light）**  
 ![Test Image4](UI/IMG_5538.jpeg)
+**UI（操作画面Dark）**
+![Test Image5](UI/IMG_5540.jpeg)
 # 【生成した音源の対応・使用方法】  
 
 * **UTAU**  
