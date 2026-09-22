@@ -65,8 +65,10 @@
  ![Test Image 3](UI/IMG_5542.jpeg)  
 **UI（設定画面Light）**  
 ![Test Image4](UI/IMG_5538.jpeg)
-**UI（操作画面Dark）**
-![Test Image5](UI/IMG_5540.jpeg)
+**UI（操作画面Dark）**  
+![Test Image5](UI/IMG_5540.jpeg)  
+**UI（設定画面Dark）**  
+![Test Image6](UI/IMG_5541.jpeg)
 # 【生成した音源の対応・使用方法】  
 
 * **UTAU**  
