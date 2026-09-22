@@ -37,8 +37,21 @@ Utaun 是一款 Windows 軟體，僅透過完全無生物的複合正弦波建�
 ⑤ 作為資料儲存位置，除了 ZIP 輸出（文件等）之外，還可以選擇直接以資料夾形式匯出到 UTAU 和 OpenUTAU。  
 *註：自動更新功能將在以後的版本中提供。*  
 
-### UI 介面  
-![Test Image 3](IMG_4239.jpeg)  
+# UI
+**UI（操作畫面 Light）**   
+ ![Test Image 3](UI/IMG_5542.jpeg)  
+**UI（設定畫面 Light）**  
+![Test Image4](UI/IMG_5538.jpeg)
+**UI（操作畫面 Dark）**  
+![Test Image5](UI/IMG_5540.jpeg)  
+**UI（設定畫面 Dark）**  
+![Test Image6](UI/IMG_5541.jpeg)  
+**UI（匯出中畫面）**  
+![Test Image7](UI/IMG_5536.jpeg)  
+**UI（更新內容確認畫面）**  
+![Test Image8](UI/IMG_5539.jpeg)  
+**UI（更新畫面）**  
+![Test Image9](UI/IMG_5537.jpeg)
 
 # 生成音源的對應與使用方法  
 
