@@ -38,8 +38,21 @@ Ele suporta a geração automática de arquivos ZIP de voicebank na sua pasta Do
 ⑤ Para o destino de salvamento dos dados, você pode escolher entre saída ZIP (Documentos, etc.) ou exportação direta de pasta para o UTAU e OpenUTAU.  
 *Nota: O recurso de atualização automática estará disponível em versões futuras.*  
 
-### Imagem da Interface (UI)  
-![Test Image 3](IMG_4239.jpeg)  
+# UI
+**UI (Tela de Operação - Claro)**   
+ ![Test Image 3](UI/IMG_5542.jpeg)  
+**UI (Tela de Configurações - Claro)**  
+![Test Image4](UI/IMG_5538.jpeg)
+**UI (Tela de Operação - Escuro)**  
+![Test Image5](UI/IMG_5540.jpeg)  
+**UI (Tela de Configurações - Escuro)**  
+![Test Image6](UI/IMG_5541.jpeg)  
+**UI (Tela de Exportação)**  
+![Test Image7](UI/IMG_5536.jpeg)  
+**UI (Tela de Detalhes da Atualização)**  
+![Test Image8](UI/IMG_5539.jpeg)  
+**UI (Tela de Atualização)**  
+![Test Image9](UI/IMG_5537.jpeg)
 
 # Compatibilidade e Uso dos Voicebanks Gerados  
 
