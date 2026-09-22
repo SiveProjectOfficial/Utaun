@@ -37,8 +37,21 @@ Belgeler klasörünüzde otomatik ses bankası ZIP arşivi oluşturulmasını ve
 ⑤ Veri kaydetme hedefi olarak ZIP çıktısı (Belgeler vb.) veya UTAU ve OpenUTAU için doğrudan klasör dışa aktarımı arasından seçim yapabilirsiniz.  
 *Not: Otomatik güncelleme özelliği gelecekteki sürümlerde sunulacaktır.*  
 
-### Arayüz (UI) Görseli  
-![Test Image 3](IMG_4239.jpeg)  
+# UI
+**UI (İşlem Ekranı - Açık)**   
+ ![Test Image 3](UI/IMG_5542.jpeg)  
+**UI (Ayarlar Ekranı - Açık)**  
+![Test Image4](UI/IMG_5538.jpeg)
+**UI (İşlem Ekranı - Koyu)**  
+![Test Image5](UI/IMG_5540.jpeg)  
+**UI (Ayarlar Ekranı - Koyu)**  
+![Test Image6](UI/IMG_5541.jpeg)  
+**UI (Dışa Aktarma Ekranı)**  
+![Test Image7](UI/IMG_5536.jpeg)  
+**UI (Güncelleme Detayları Ekranı)**  
+![Test Image8](UI/IMG_5539.jpeg)  
+**UI (Güncelleme Ekranı)**  
+![Test Image9](UI/IMG_5537.jpeg)
 
 # Uyumluluk ve Oluşturulan Ses Bankalarının Kullanımı  
 
