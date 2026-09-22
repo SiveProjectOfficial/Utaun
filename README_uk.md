@@ -37,7 +37,6 @@ It supports automated ZIP file generation in your Documents folder as well as di
 ⑤ For the data save destination, you can choose between ZIP output (Documents, etc.) or direct folder export to UTAU and OpenUTAU.  
 *Note: The automatic update feature will be available from future versions.*  
 
-# UI  
 # UI
 **UI (Operation Screen - Light)**   
  ![Test Image 3](UI/IMG_5542.jpeg)  
